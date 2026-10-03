@@ -1,0 +1,6 @@
+{
+  "name": "US Cloud Phone",
+  "description": "USA-based virtual Android cloud phone platform with remote device streaming, US region selection, real network telemetry, and app management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
